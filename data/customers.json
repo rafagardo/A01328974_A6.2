@@ -1,0 +1,26 @@
+[
+    {
+        "customer_id": "a69343ee-9f19-4ad5-8436-300e5220c1ee",
+        "name": "Ana P\u00e9rez",
+        "email": "ana@example.com",
+        "phone": "555-1234"
+    },
+    {
+        "customer_id": "26153526-6dfd-47fa-ab4e-29965115a988",
+        "name": "Ana P\u00e9rez",
+        "email": "ana@example.com",
+        "phone": "555-1234"
+    },
+    {
+        "customer_id": "e37f3eb5-b9ad-4eb5-9aa8-d9a85b776153",
+        "name": "Res Customer",
+        "email": "res@example.com",
+        "phone": "1112223333"
+    },
+    {
+        "customer_id": "20a5c5da-3b63-430b-b836-d29ab19080c0",
+        "name": "Jane Doe",
+        "email": "jane@example.com",
+        "phone": "1234567890"
+    }
+]

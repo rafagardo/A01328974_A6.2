@@ -1,0 +1,14 @@
+[
+    {
+        "reservation_id": "fcd029c8-0de6-4098-9c99-6ea605a0f046",
+        "customer_id": "a69343ee-9f19-4ad5-8436-300e5220c1ee",
+        "hotel_id": "f7d680fd-1541-4de6-b20c-a913d7c6945f",
+        "reservation_date": "2025-02-16 19:59:25"
+    },
+    {
+        "reservation_id": "4577bdb0-233d-4065-8be9-84bab4fabaa4",
+        "customer_id": "26153526-6dfd-47fa-ab4e-29965115a988",
+        "hotel_id": "03aeaae2-af5f-4cec-a023-2a6dd80deb74",
+        "reservation_date": "2025-02-16 19:59:31"
+    }
+]

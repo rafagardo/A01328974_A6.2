@@ -1,0 +1,44 @@
+[
+    {
+        "hotel_id": "f7d680fd-1541-4de6-b20c-a913d7c6945f",
+        "name": "Hotel Central",
+        "location": "Ciudad X",
+        "total_rooms": 20,
+        "available_rooms": 19
+    },
+    {
+        "hotel_id": "03aeaae2-af5f-4cec-a023-2a6dd80deb74",
+        "name": "Hotel Central",
+        "location": "Ciudad X",
+        "total_rooms": 20,
+        "available_rooms": 19
+    },
+    {
+        "hotel_id": "7353d0ec-dbd9-4515-8d3f-f39595589e3b",
+        "name": "Res Hotel",
+        "location": "Res City",
+        "total_rooms": 1,
+        "available_rooms": 1
+    },
+    {
+        "hotel_id": "c2e34091-9c1f-4fec-8d03-ac79a5260dcb",
+        "name": "Test Hotel",
+        "location": "Test City",
+        "total_rooms": 10,
+        "available_rooms": 10
+    },
+    {
+        "hotel_id": "84fffad2-f0c8-4094-9ab2-502943bc3535",
+        "name": "Hotel B",
+        "location": "City A",
+        "total_rooms": 8,
+        "available_rooms": 8
+    },
+    {
+        "hotel_id": "a56b60e3-ced6-4bbd-884f-7ad11628572c",
+        "name": "Hotel Reserve",
+        "location": "City",
+        "total_rooms": 2,
+        "available_rooms": 2
+    }
+]
